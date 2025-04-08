@@ -1,0 +1,25 @@
+body {
+    background-color: #f0f0f0;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: #e0e0e0;
+    padding: 30px 40px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.commands p {
+    margin: 6px 0;
+    font-size: 16px;
+}
